@@ -127,7 +127,7 @@ background: url(../img/icon.png) no-repeat 0 -600px;}
 .notice3 li a span {display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 12px;}
 .notice3 a.more {position: absolute; right: 0; top: 0; display: block; background: url(../img/icon.png) -150px -90px; width: 17px; height: 17px;}
 
-/* 마우스 오버효과 */
+/* 마우스 오버효과1 */
 .notice_hover h4 {font-size: 14px; color: #0093bd; padding-bottom: 3px; font-weight: bold;}
 .notice_hover ul {overflow: hidden;}
 .notice_hover li {float: left; width: 93px; margin-right: 5px; text-align: center;}
@@ -139,7 +139,7 @@ background: url(../img/icon.png) no-repeat 0 -600px;}
 .notice_hover li a span:hover em {visibility: visible;}
 .notice_hover strong {padding-top: 3px; display: inline-block; font-size: 12px;}
 
-/* 마우스 오버효과*/
+/* 마우스 오버효과2 */
 .notice_hover li a span1 {position: relative; display: block; width: 93px; height: 93px; line-height: 15px;}
 .notice_hover li a span1 img {width: 100%;}
 .notice_hover li a span1 em1 {visibility: hidden; position: absolute; left: 0; top: 80px; background:
